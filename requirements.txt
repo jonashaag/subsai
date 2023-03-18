@@ -1,4 +1,4 @@
-torch~=1.13.1
+torch
 openai-whisper==20230124
 streamlit~=1.20.0
 streamlit_player~=0.1.5
